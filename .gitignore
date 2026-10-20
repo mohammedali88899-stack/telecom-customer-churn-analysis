@@ -1,0 +1,11 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+
+# Checkpoints & temp files
+.ipynb_checkpoints/
+*.zip
+
+# Draft notebooks
+telecom.ipynb
