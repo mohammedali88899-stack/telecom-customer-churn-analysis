@@ -30,7 +30,7 @@ The analysis identified an **annual revenue bleed of $3,653,533.68** (~$304.5K/m
 ├── data/
 │   └── telecom.csv                 # Raw dataset (50,200 records x 18 features)
 ├── notebooks/
-│   └── telecom_Analyzed.ipynb      # Complete 4-phase Jupyter/VS Code analysis
+│   └── telecom_churn_deep_dive_analysis.ipynb      # Complete 4-phase Jupyter/VS Code analysis
 ├── README.md                       # Executive project briefing & documentation
 └── requirements.txt                # Python environment dependencies
 ```
