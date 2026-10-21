@@ -112,4 +112,4 @@ jupyter notebook notebooks/telecom_Analyzed.ipynb
 ## 👤 Author
 **Mohamed Ali Hassan**  
 *Data Analyst | Python · Advanced Google Sheets · SQL*  
-Cairo, Egypt | [LinkedIn Profile](https://linkedin.com) | [Upwork Profile](https://www.upwork.com)
+Cairo, Egypt | [LinkedIn Profile](www.linkedin.com/in/mohamed-ali-29937656) | [Upwork Profile](https://www.upwork.com/freelancers/~0187fdaf1aefb8f119)
